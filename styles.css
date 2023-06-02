@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* 
+    INDEX
+*/
+
+.olho {
+    width: 100%;
+    box-shadow: 0px 7px 22px -12px rgba(0, 72, 168, 0.34)
+}
+
+.navegation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid red;
+}
+
+.nav-item {
+    display: inline;
+    margin-right: 1.5rem;
+}
+
+.nav-item a{
+    text-decoration: none;
+    color: black;
+    font-weight: 600;
+    transition: all 0.8s;
+    padding: 0.3rem;
+}
+
+.nav-item a:hover{
+    border-bottom: 1px solid red;
+}
+
+.logo {
+    height: 7rem;
+}
+
+.nav-list {
+    margin-right: 5rem;
+}
+
+.main-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-container {
+    height: 70vh;
+    width: 70vw;
+    display: flex;
+    flex-direction: row;
+    margin-top: 3rem;
+    background-color: #d3d3d3;
+}
+
+.section-img {
+    width: 40%;
+    height: 40%;
+    margin: 5rem;
+}
+
+.section-title {
+    margin: 5rem;
+}
+
+/* 
+    INDEX
+*/
+
+/* 
+    CINISMO
+*/
+
+
+/* 
+    CINISMO
+*/
+
+/* 
+    ESTOICISMO
+*/
+
+
+/* 
+    ESTOICISMO
+*/
+
+/* 
+    MAQUIÁVEL
+*/
+
+
+/* 
+    MAQUIÁVEL
+*/
+
+/* 
+    NIILISMO
+*/
+
+
+/* 
+    NIILISMO
+*/
+
+/* 
+    PERÍODO SOCRÁTICO
+*/
+
+
+/* 
+    PERÍODO SOCRÁTICO
+*/
